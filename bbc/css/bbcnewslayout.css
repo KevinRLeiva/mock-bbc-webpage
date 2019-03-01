@@ -1,0 +1,241 @@
+*{
+  box-sizing: border-box;
+}
+header{
+  background-color: black;
+  height: 49x;
+  width: 100%;
+  clear: both;
+}
+.webPage{
+  height: 736px;
+  width: 100%;
+  float: left;
+}
+.bbcLogo{
+  height: 49px;
+  width: 8%;
+  float: left;
+}
+.bbcnewsLogo{
+  height: 50px;
+  width: 100%;
+  float: left;
+  margin-top: -20px;
+}
+.navBar{
+  background-color: black;
+  height: 49px;
+  width: 72%;
+  float: left;
+}
+.logIcon{
+  height: 32px;
+  width: auto;
+  float: left;
+  margin-top: 7px;
+}
+.dontSign{
+  height: 10px;
+  width: 88px;
+  float: left;
+  color: white;
+}
+nav ul li{
+  list-style: none;
+  float: left;
+}
+.searchSize{
+  height: auto;
+  width: auto;
+  margin-top: 11px;
+  float: left;
+  margin-left: 56px;
+}
+.searchBar{
+  background-color: black;
+  height: 49px;
+  width: 20%;
+  float: left;
+}
+.top{
+  height: 400px;
+  width: 100%;
+  float: left;
+  background: gray;
+}
+.webSite{
+  height: 78px;
+  width: 100%;
+  float: left;
+}
+.welcome{
+  height: auto;
+  width: auto;
+  float: left;
+  color: black;
+}
+.wednesday{
+  height: auto;
+  width: auto;
+  float: right;
+  color: black;
+}
+.themadLad{
+  background-image: url(../img/trumpPointing.jpg);
+  height: 290px;
+  width: 50%;
+  float: left;
+  display: block;
+  margin-left: 8px;
+  margin-top: 7px;
+}
+.ladMad{
+  text-decoration: none;
+  height: auto;
+  width: auto;
+  color: white;
+  float: left;
+  margin-top: 140px;
+  margin-left: 29px;
+}
+.madLad{
+  height: auto;
+  width: auto;
+  float: left;
+  color: white;
+  margin-left: 29px;
+}
+.theLad{
+  height: auto;
+  width: auto;
+  float: left;
+  color: white;
+  margin-left: 29px;
+}
+.thisGuy{
+  background-image: url(../img/trumpclaims.jpg);
+  height: 140px;
+  width: 23%;
+  float: left;
+  display: block;
+  margin-top: 7px;
+  margin-left: 10px;
+}
+.blueLine{
+  height: auto;
+  width: auto;
+  float: left;
+  color: white;
+  margin-top: 16px;
+  margin-left: 15px;
+}
+.guyThis{
+  text-decoration: none;
+  height: auto;
+  width: auto;
+  float: left;
+  font-size: 19px;
+  color: white;
+  margin-top: 33px;
+  margin-left: 15px;
+}
+.tillersonKnew{
+  background-image: url(../img/putinknew.jpeg);
+  background-position: center;
+  height: 140px;
+  width: 23%;
+  float: left;
+  margin-top: 7px;
+  margin-left: 10px;
+}
+.tillerson{
+  font-size: 19px;
+  text-decoration: none;
+  height: auto;
+  width: auto;
+  color: white;
+  float: left;
+  margin-top: 33px;
+  margin-left: 15px;
+}
+.canada{
+  height: auto;
+  width: auto;
+  float: left;
+  color: white;
+  margin-top: 16px;
+  margin-left: 15px;
+}
+.oxfordAca{
+  background-image: url(../img/oxford.jpg);
+  background-position: center;
+  height: 140px;
+  width: 23%;
+  float: left;
+  display: block;
+  margin-top: 7px;
+  margin-left: 10px;
+}
+.whyOffices{
+  background-image: url(../img/openoffice.jpg);
+  background-position: center;
+  height: 140px;
+  width: 23%;
+  float: left;
+  margin-top: 7px;
+  margin-left: 10px;
+}
+.captital{
+  height: auto;
+  width: auto;
+  float: left;
+  color: white;
+  margin-top: 37px;
+  margin-left: 15px;
+}
+.bottom{
+  height: 295px;
+  width: 100%;
+  float: left;
+  border-bottom: 3px solid black;
+}
+.newsBar{
+  height: 59px;
+  width: 100%;
+  float: left;
+}
+.news{
+  border-left: 2px solid red;
+}
+.trumpPutin{
+  height: 230px;
+  width: 31.3333%;
+  float: left;
+  display: block;
+  margin-left: 8px;
+}
+.putinTrump{
+  height: 230px;
+  width: auto;
+  float: left;
+}
+.videoFist{
+  height: 230px;
+  width: 31.3333%;
+  float: left;
+  display: block;
+  margin-left: 15px;
+}
+.bacteriaBlue{
+  height: 230px;
+  width: 31.3333%;
+  float: left;
+  display: block;
+  margin-left: 15px;
+}
+.bacBlue{
+  height: 230px;
+  width: auto;
+  float: left;
+}
